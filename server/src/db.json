@@ -1,0 +1,76 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "name": "iPhone 10",
+      "manufacturer": "Apple",
+      "description": "lorem ipsum dolor sit amet consectetur.",
+      "color": "black",
+      "price": 1000,
+      "imageFileName": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "id": 2,
+      "name": "iPhone 7",
+      "manufacturer": "Apple",
+      "description": "lorem ipsum dolor sit amet consectetur.",
+      "color": "black",
+      "price": 500,
+      "imageFileName": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "id": 3,
+      "name": "iPhone 500",
+      "manufacturer": "Apple",
+      "description": "lorem ipsum dolor sit amet consectetur.",
+      "color": "black",
+      "price": 10000000,
+      "imageFileName": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "id": 4,
+      "name": "iPhone 11",
+      "manufacturer": "Apple",
+      "description": "lorem ipsum dolor sit amet consectetur.",
+      "color": "black",
+      "price": 1000,
+      "imageFileName": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "id": 5,
+      "name": "iPhone 45",
+      "manufacturer": "Apple",
+      "description": "lorem ipsum dolor sit amet consectetur.",
+      "color": "black",
+      "price": 500,
+      "imageFileName": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    },
+    {
+      "id": 6,
+      "name": "iPhone 5",
+      "manufacturer": "Apple",
+      "description": "lorem ipsum dolor sit amet consectetur.",
+      "color": "black",
+      "price": 1,
+      "imageFileName": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-pro-max-graphite-select?wid=470&hei=556&fmt=jpeg&qlt=95&.v=1631652956000",
+      "screen": "4,7 inch IPS",
+      "processor": "A10 Fusion",
+      "ram": 2
+    }
+  ]
+}

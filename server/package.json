@@ -1,0 +1,14 @@
+{
+  "name": "json_api",
+  "version": "1.0.0",
+  "description": "Simple JSON API for testing purposes",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "json-server --watch -p 8080 src/db.json"
+  },
+  "author": "Franky Molina",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^0.17.2"
+  }
+}
